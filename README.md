@@ -4,7 +4,6 @@ A **Backend Software Engineer** and **System Automation Enthusiast** passionate 
 
 ## 🚀 About Me
 
-- 🎓 Currently expanding my knowledge in AI at **Samsung Innovation Campus 2026** (Đại học Thủy Lợi).
 - 💼 Handling technical operations and enterprise automation (Lark Base, Bitable APIs, AnyCross).
 - 💻 Building robust backend systems with the **Java ecosystem** and **Spring Boot**.
 - 🌱 Currently mastering **Data Structures & Algorithms (DSA)** and **System Design** to prepare for software engineering roles at major tech firms.
